@@ -1,0 +1,37 @@
+{
+  "name": "odera-tools",
+  "version": "0.0.0",
+  "description": "odera time series command-line tools",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^3.4.1",
+    "commander": "^2.9.0"
+  },
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "mocha": "^2.3.3"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pniang/odera-tools.git"
+  },
+  "keywords": [
+    "odera",
+    "tools",
+    "time",
+    "series"
+  ],
+  "author": "Papa Niang <poniang@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pniang/odera-tools/issues"
+  },
+  "homepage": "https://github.com/pniang/odera-tools"
+}
