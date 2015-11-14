@@ -1,6 +1,6 @@
 {
   "name": "odera-tools",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "odera time series command-line tools",
   "main": "index.js",
   "directories": {
